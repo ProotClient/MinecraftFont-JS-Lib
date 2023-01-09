@@ -20,7 +20,7 @@ Below that create a `<script>` Element like this:
 
 ```html
 <script>
-    MinecraftFont(
+    minecraftFont(
         "Element ID",
         // Insert JSON Text Here; Recommended Website: https://minecraft.tools/en/json_text.php
     )
