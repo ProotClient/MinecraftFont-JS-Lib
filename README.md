@@ -1,4 +1,5 @@
 <center><img src="./MinecraftFont-Logo.png"></img></center>
+
 # MinecraftFont JavaScript Library
 
 MinecraftFont is a simple JavaScript Library that makes the font appear like in the video game [Minecraft (Wikipedia)](https://en.wikipedia.org/wiki/Minecraft).
